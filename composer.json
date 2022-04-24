@@ -1,6 +1,7 @@
 {
   "name": "kmvan/request",
   "description": "Make http request.",
+  "version": "0.0.1",
   "type": "library",
   "license": "MIT",
   "autoload": {
