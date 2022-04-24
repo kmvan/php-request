@@ -4,13 +4,13 @@
 
 ### Install
 
-```
+```shell
 composer require kmvan/request
 ```
 
 ### Usage
 
-```
+```php
 <?php
 
 use Kmvan/Request;
