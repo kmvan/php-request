@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace InnStudio\Request;
+namespace Kmvan\Request;
 
 use CurlHandle;
 
