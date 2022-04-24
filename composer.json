@@ -1,0 +1,21 @@
+{
+  "name": "kmvan/request",
+  "description": "Make http request.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Kmvan\\Request\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Km.Van",
+      "email": "kmvan.com@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=8.1.0"
+  }
+}
